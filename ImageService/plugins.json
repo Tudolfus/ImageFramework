@@ -1,0 +1,14 @@
+{
+  "Plugins": [
+    {
+      "Id": 0,
+      "Name": "Increase",
+      "IsActive": true,
+    },
+    {
+      "Id": 1,
+      "Name": "Decrease",
+      "IsActive": false,
+    }
+  ]
+}
